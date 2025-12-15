@@ -21,4 +21,8 @@ A To-Do List web application built using Django that allows users to create, upd
 3.Add and manage your todo tasks
 4.Collaborate with other users by assigning tasks to them
 
+<img width="969" height="888" alt="Screenshot 2025-12-15 154725" src="https://github.com/user-attachments/assets/0731d773-5b70-4c94-aa83-970f86f0794b" />
+
+
+
 
