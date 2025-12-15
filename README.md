@@ -10,15 +10,22 @@ A To-Do List web application built using Django that allows users to create, upd
 
 # Installation
 1.Navigate to the project directory: cd todo
+
 2.Install dependencies: pip install django
+
 3.Set up the database: python manage.py makemigrationsand python manage.py migrate
+
 4.Create a superuser for admin access: python manage.py createsuperuser
+
 5.Start the development server: python manage.py runserver
 
 # Usage
 1.Access the application through your browser at http://localhost:8000/
+
 2.Register as a new user or log in with an existing account
+
 3.Add and manage your todo tasks
+
 4.Collaborate with other users by assigning tasks to them
 
 <img width="969" height="888" alt="Screenshot 2025-12-15 154725" src="https://github.com/user-attachments/assets/0731d773-5b70-4c94-aa83-970f86f0794b" />
